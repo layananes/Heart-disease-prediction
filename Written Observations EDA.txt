@@ -1,0 +1,41 @@
+More than half of the patients have no heart disease. (164 to 139) 
+
+
+- 112 of those who have heart disease are between ages 50 and 70, meaning the chance of heart disease increases as age increases. 
+
+- Rest BP is generally concentrated towards the middle and shows mostly normal values and low correlation. 
+
+- Cholesterol also shows low correlation, with the values being somewhat symmetrical and lying within normal range.
+
+- Max HR is left skewed, though within normal limits. 
+
+- Old Peak is right skewed, though also withing normal limits. 
+
+- Slope is right skewed. since almost half of the values lie at the danger level, a correlation can be seen. 
+
+- Calcium values are right skewed. a good amount of the data lie above danger level, so a correlation can be seen. 
+
+- Ex Ang is right skewed. most report no chest pain during exercise, though a good correlation can be observed with those that do.
+
+- Rest ECG is symmetrical, almost half of the data lie within abnormal limits, though very low correlation is observed. 
+
+- Fbs is right skewed, generally low/normal blood sugar reported
+
+- Chest pain: 105 out of 144 patients who report no chest pain symptoms have heart disease, meaning they have it at a preventable stage but cannot yet report chest pain symptoms. 86 patients have non anginal symptoms, meaning the pain is not related to the heart. 
+7 of 23 who report typical chest pain symptoms actually have heart disease, which is a questionable correlation (seems like it's low). 
+9 of 50 who report nontypical chest pain symptoms actually have heart disease, which is a very low correlation. 
+18 of 86 who report nonanginal chest pain symptoms actually have heart disease, which is a very low correlation. 
+
+- Thalassemia: 37 of 166 who report normal Thalassemia actually have heart disease, which is a very low correlation. 
+8 of 117 who report reversable Thalassemia actually have heart disease, which is an extremely low correlation. 
+12 of 18 who report reversable Thalassemia actually have heart disease, which is an high correlation. 
+
+- Sex: 114 of the 206 male patients have heart disease, while 25 of the 97 female patients have heart disease. This shows a half to quarter ratio, meaning for every woman, 4.5 men report heart disease (meaning men are twice as likely to have it)
+
+In general: 
+
+Calcium, Old peak, and Ex Ang and slope show correlation with heart disease. Fixed Thalassemia also shows high correlation. All other symptoms lie <1 in correlation. 
+
+
+
+
